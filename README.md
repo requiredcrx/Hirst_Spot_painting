@@ -13,7 +13,7 @@ The dots are placed in a grid-like pattern, with each row containing 10 dots. On
 ## How to Run the Program
 
 Make sure you have Python installed on your machine.
-Copy the provided code into a Python file (e.g., "main.py").
+Copy the provided code into a Python file (e.g., "hirst_painting.py").
 Run the Python file using a Python interpreter or an integrated development environment (IDE).
 The turtle graphics window will open, and you will see the Hirst painting being created.
 Close the turtle graphics window when you are done viewing the painting.
